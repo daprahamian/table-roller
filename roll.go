@@ -28,7 +28,7 @@ func main() {
 
 const usage = `
 Usage: 
-  roll <path-to-file> [roll value]
+  table-roller <path-to-file> [roll value]
 `
 
 func check(err error) {
