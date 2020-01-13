@@ -1,8 +1,6 @@
 package table
 
-import (
-	"table-roller/dice"
-)
+import "github.com/daprahamian/table-roller/dice"
 
 // Result todo
 type Result struct {

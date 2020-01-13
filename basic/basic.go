@@ -4,8 +4,9 @@ import (
 	"encoding/json"
 	"fmt"
 	"strconv"
-	"table-roller/dice"
-	"table-roller/table"
+
+	"github.com/daprahamian/table-roller/dice"
+	"github.com/daprahamian/table-roller/table"
 )
 
 // Table A basic table that rolls a single dice and returns the result

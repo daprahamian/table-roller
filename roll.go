@@ -5,9 +5,10 @@ import (
 	"io/ioutil"
 	"os"
 	"strconv"
-	"table-roller/basic"
-	"table-roller/dice"
-	"table-roller/table"
+
+	"github.com/daprahamian/table-roller/basic"
+	"github.com/daprahamian/table-roller/dice"
+	"github.com/daprahamian/table-roller/table"
 )
 
 func main() {
