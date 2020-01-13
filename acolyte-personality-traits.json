@@ -1,0 +1,14 @@
+{
+    "name": "Acolyte - Personality Traits",
+    "dice": "d8",
+    "results": {
+        "1":	{ "description": "I idolize a particular hero of my faith, and constantly refer to that person’s deeds and example."},
+        "2":	{ "description": "I can find common ground between the fiercest enemies, empathizing with them and always working toward peace."},
+        "3":	{ "description": "I see omens in every event and action. The gods try to speak to us, we just need to listen."},
+        "4":	{ "description": "Nothing can shake my optimistic attitude."},
+        "5":	{ "description": "I quote (or misquote) sacred texts and proverbs in almost every situation."},
+        "6":	{ "description": "I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods."},
+        "7":	{ "description": "I’ve enjoyed fine food, drink, and high society among my temple’s elite. Rough living grates on me."},
+        "8":	{ "description": "I’ve spent so long in the temple that I have little practical experience dealing with people in the outside world."}
+    }
+}
